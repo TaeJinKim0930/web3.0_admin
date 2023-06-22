@@ -1,0 +1,7 @@
+### npm
+
+$ npm install node-binance-api --save
+$ npm i -S express dotenv compression
+$ npm install -g nodemon
+$ npm install cors
+$ npm install router
